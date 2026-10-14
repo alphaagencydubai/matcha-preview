@@ -1,0 +1,33 @@
+{
+ "name": "matcha design",
+ "short_name": "matcha",
+ "start_url": "./index.html#/home",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#ffffff",
+ "theme_color": "#ffffff",
+ "description": "A small, considered rail of coats, jackets and blazers. Chosen one piece at a time.",
+ "lang": "en",
+ "dir": "ltr",
+ "icons": [
+  {
+   "src": "assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
